@@ -1,2 +1,2 @@
 #!/bin/bash
-ecgho "School"
+echo "The school is open!"
